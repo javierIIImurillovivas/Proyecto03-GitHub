@@ -29,5 +29,9 @@ background: url(img/fontoPared.jpg);
 .pcero{
     color: red;
 }
+footer p{
+    text-align: center;
+    color: white;
+}
 
 
